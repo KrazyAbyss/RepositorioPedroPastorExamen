@@ -1,9 +1,12 @@
 
 public class main {
-	//los thoreros son malos
+	//los toreros son malos
 	public static void main(String[] args) {
-		System.out.println("Pastor Risco")
+
+		System.out.println("Pastor Risco");
+
 		System.out.println("Pedro");
+
 
 	}
 
